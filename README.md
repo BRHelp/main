@@ -1,7 +1,7 @@
 
 <html>
 <head>
-  <titl>vxhdhd</titl>
+  <title>vxhdhd</title>
 </head>
  <body>
    привет 
