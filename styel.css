@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+   height: 50vh; 
+   background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    
+      
+}
+span{
+ display: inline-block;
+ text-align: center;
+ width: 500px;
+ margin-top: 20px;
+ font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 35px;
+background: linear-gradient(90deg,rgba(0, 255, 51, 1) 0%, rgba(199, 4, 4, 1) 44%, rgba(0, 0, 0, 1) 99%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.scroll-arrow{
+position: fixed;
+  right: 30px;
+  padding: 10px 15px;
+  font-size: 100px;
+  color: blue;
+}
